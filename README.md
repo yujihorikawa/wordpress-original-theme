@@ -1,7 +1,18 @@
 # WordPress Original Theme
 
-## 概要
-SAMURAI ENGINEERの学習課題として制作したWordPressオリジナルテーマです。
+#概要
+WordPressテーマ開発を学ぶために制作したオリジナルテーマです。
+
+## スクリーンショット
+
+### トップページ
+![トップページ](topimage.png)
+
+### コース一覧
+![コース一覧](topimage2.png)
+
+### コース詳細
+![コース詳細](topimage3.png)
 
 ## 使用技術
 - WordPress
