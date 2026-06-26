@@ -1,6 +1,6 @@
 # WordPress Original Theme
 
-##概要
+## 概要
 WordPressテーマ開発を学ぶために制作したオリジナルテーマです。
 
 ## スクリーンショット
